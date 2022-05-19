@@ -8,11 +8,9 @@ params:
     Title: "Добро пожаловать в Pianorganic"
     Content: Осмысляем игру на фортепиано
   socialIcons:
-    - name: vk
-      url: "https://vk.com"
     - name: telegram
       url: "https://t.me/pianorganic"
-      
+
   cover:
     linkFullImages: true
   ShowBreadCrumbs: true

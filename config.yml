@@ -19,15 +19,15 @@ params:
 menu: 
   main:
     - identifier: categories
-      name: Categories
+      name: Категории
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Метки
       url: /tags/
       weight: 20
     - identifier: archives
-      name: Archives
+      name: Архив
       url: /archives/
       weight: 30
 

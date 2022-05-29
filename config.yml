@@ -3,32 +3,3 @@ languageCode: en-us
 title: pianorganic
 theme: PaperMod
 
-params:
-  homeInfoParams:
-    Title: "Добро пожаловать в Pianorganic"
-    Content: Осмысляем игру на фортепиано
-  socialIcons:
-    - name: telegram
-      url: "https://t.me/pianorganic"
-
-  cover:
-    linkFullImages: true
-  ShowBreadCrumbs: true
-
-
-menu: 
-  main:
-    - identifier: categories
-      name: Категории
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Метки
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: Архив
-      url: /archives/
-      weight: 30
-
-
